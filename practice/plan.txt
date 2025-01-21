@@ -1,0 +1,2 @@
+Linear regression practice:
+- implement lin regression, lasso, ridge not using sklearn (make classes)
